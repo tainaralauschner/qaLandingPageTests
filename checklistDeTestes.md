@@ -1,4 +1,7 @@
-# Checklist de Testes
+# Test Checklist – Manual QA Testing
+
+## Aplicação testada
+https://tainaralauschner.github.io/landingpage/
 
 ## 📄 Carregamento
 - [x] Página carrega corretamente

@@ -1,4 +1,7 @@
-# Relatório de Bugs – Landing Page
+# Bug Report – Landing Page
+
+## Aplicação testada
+https://tainaralauschner.github.io/landingpage/
 
 ## BUG01 – Favicon não carregado
 

@@ -1,34 +1,62 @@
-# QA Project – Testes de Landing Page
+ # QA Project – Landing Page Testing
 
-## Objetivo
-Realizar testes manuais em uma landing page com foco na validação de funcionalidades, responsividade e experiência do usuário.
+## Project Summary
 
-## Aplicação testada
+This project demonstrates manual QA testing skills applied to a real web application, including test planning, execution, bug reporting, and visual evidence.
+
+## Tested Application
+
 https://tainaralauschner.github.io/landingpage/
 
-## Tipos de teste realizados
-- Testes funcionais
-- Testes exploratórios
-- Testes de responsividade (mobile)
-- Validação de usabilidade (UX)
+## Objective
 
-## Ferramentas utilizadas
+Perform manual testing on a landing page to validate functionality, responsiveness, usability, and user experience.
+
+## Test Types
+
+- Functional testing
+- Exploratory testing
+- Responsive testing
+- UX/UI validation
+
+## Tools Used
+
 - Google Chrome
 - Chrome DevTools
-- Testes manuais
+- Manual testing
 
-## Atividades realizadas
-- Criação de checklist de testes
-- Elaboração de casos de teste
-- Execução de testes manuais
-- Identificação e documentação de bugs
-- Registro de evidências visuais
+## Project Structure
 
-## Resultados
-Foram identificados bugs relacionados à responsividade, hierarquia visual e consistência de interface.
+```txt
+qaLandingPageTests/
+├── README.md
+├── checklistDeTestes.md
+├── casosDeTeste.md
+├── relatorioDeBugs.md
+└── evidencias/
+```
 
-## Evidências
-As evidências dos testes (prints) estão disponíveis na pasta:/evidencias
+## How to Use
 
-## Autora
+1. Open the tested application:  
+https://tainaralauschner.github.io/landingpage/
+
+2. Review the test checklist in `checklistDeTestes.md`
+
+3. Review the test cases in `casosDeTeste.md`
+
+4. Check the bug report in `relatorioDeBugs.md`
+
+5. View the visual evidence in the `evidencias/` folder
+
+---
+
+## Results
+
+Bugs related to responsiveness, visual hierarchy, UI consistency, and user experience were identified and documented.
+
+---
+
+## Author
+
 Tainara Lauschner

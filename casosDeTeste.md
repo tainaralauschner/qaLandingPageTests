@@ -1,4 +1,7 @@
-# Casos de Teste
+# Test Cases – Landing Page
+
+## Aplicação testada
+https://tainaralauschner.github.io/landingpage/
 
 ## CT01 – Carregamento da página
 
